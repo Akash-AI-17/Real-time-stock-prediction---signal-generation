@@ -1,5 +1,10 @@
-# Real-time-stock-prediction---signal-generation
-This project implements real-time stocks trading signal generation using EMA crossover strategy.
-It generates Buy and Sell signals on stock's price data which is imported from yfinance library.
-Created a gradio application for visualizing the generated buy & sell signals.
+- Project: Real-time stock prediction and signal generation
+- Main objective: Implement a system for generating real-time trading signals
+- Strategy used: Exponential Moving Average (EMA) crossover
+- Signals generated:
+  - Buy signals
+  - Sell signals
+- Data source: yfinance library for stock price data
+- Visualization: Gradio application to display buy and sell signals
+- 
 Made with ❤️ by Akash-AI-17.
