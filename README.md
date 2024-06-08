@@ -1,5 +1,3 @@
-Sure, I'll modify the "Signals generated" point to be more concise:
-
 - Project: Real-time stock prediction and signal generation
 - Main objective: Implement a system for generating real-time trading signals
 - Strategy used: Exponential Moving Average (EMA) crossover
